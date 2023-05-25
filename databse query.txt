@@ -1,0 +1,14 @@
+right click on datatbase
+
+go to tasks  > generate scripts
+
+select entire database  > next
+go to advance 
+
+find "types of database script"
+
+select schema and data from drop down
+
+then ok
+
+save your file and click to next/finish and check your file in documents folder
